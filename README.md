@@ -6,7 +6,7 @@
 
 ## Description
 
-Imagine, there are so many social network websites. Instagram, Snapchat so on so on. They all work well in their own regards. Now as a backend developer, I cannot nearly see enough command like interaction in ANY social website and, by the lords, usable UI. Cannot stand usable UI. So I made a MongoDB based social interaction app that can record new users, add users as one anothers friends and record user thoughts and reactions. All without a usable UI, instead just with JSON payloads. Amazing.
+Imagine, there are so many social network websites. Instagram, Snapchat so on so on. They all work well in their own regards. Now as a backend developer, I cannot nearly see enough command line interaction in ANY social website and, by the lords, usable UI. Cannot stand usable UI. So I made a MongoDB based social interaction app that can record new users, add users as one anothers friends and record user thoughts and reactions. All without a usable UI, instead just with JSON payloads. Amazing.
 
 ## Usage
 
